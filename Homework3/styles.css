@@ -1,0 +1,114 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* index */
+
+.section-1{
+    background-color: aquamarine;
+    text-align: center;
+}
+.text{
+    background-color:green;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    color: white;
+}
+.text-p{
+    width: 500px;
+    height: auto;
+    border: 3px solid red;
+    margin-top: 25px;
+    margin-bottom: 25px;
+    margin-right: auto;
+    margin-left: auto;
+    padding: 20px;
+    border-radius: 20px;
+    background-color: blueviolet;
+    color: white;
+}
+li{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.image-1{
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+/* page2 */
+
+.section-2{
+    background-color: peru;
+}
+.image-2{
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+.text-h2{
+    background-color:green;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    color: white;
+    text-align: center;
+}
+.p-text{
+    width: 500px;
+    height: auto;
+    border: 3px solid red;
+    margin-top: 25px;
+    margin-bottom: 25px;
+    margin-right: auto;
+    margin-left: auto;
+    padding: 20px;
+    border-radius: 20px;
+    background-color: blueviolet;
+    color: white;
+    text-align: center;
+}
+.container{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+/* page3 */
+
+.section-3{
+    background-color: deepskyblue;
+}
+.text-h1{
+    text-align: center;
+    background-color: green;
+    color: white;
+}
+.content-box{
+    width: 800px;
+    height: 500px;
+    display: flex;
+    border: 5px red solid;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 25px;
+    margin-bottom: 25px;
+    background-color: cornflowerblue;
+    border-radius: 30px;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+}
+.box{
+    width: 210px;
+    height: 200px;
+    background:url(https://avatars.mds.yandex.net/get-vertis-journal/4465444/2021-01-12-365f3cec8a65447bba7d1041b75942b2.png_1622737045549/orig);
+    background-size: cover;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 3px solid rebeccapurple;
+    border-radius: 10px;
+    font-size: 48px;
+    color:blue;
+}
